@@ -52,7 +52,6 @@ class Gallery {
     this.doSearch(query, moduleId);
   }
 
-
   /**
    * update gallery content with search results
    * @param {query:String{images:[{id:String, url:string, title:string}]}} searchResult - results object for gallery update
